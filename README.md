@@ -25,3 +25,5 @@
 ###### Dæmi: hverning gékk í hópaverkefninu?
 #### 8. Hvað eru jaðartæki?
 ###### Jaðartækin sjá um samskiptin milli þín og tölvunnar. jaðartæki skiptast oftast í þessa flokka: minnis geymslur, inntaksbúnaður, úttaksbúnaður, annar búnaður.
+#### 9. Nefndu þrjú dæmi um inntakstæki
+###### Lyklaborð, mús og hljóðnemi
