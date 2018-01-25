@@ -13,8 +13,8 @@
 ###### Spennugjafinn það að hafa nóg af vöttum fyrir alla hlutina í tölvunni, það þarf að passa við móðurborðið, það þarf að hafa rétta power connectors, það þarf að passa í kassan og það þarf að hafa að minnstalægi 25% meira vött en allir hlutirnir í tölvunni taka.
 #### 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ###### - Finndu vandamálið.
-- Búðu til kenningu á líklegu ástæðunni.
-- Prufaðu kenningu til að finna raunverulegu ástæðu.
-- Búðu til aðgerðaáætlun og framkvæmdu hana.
-- Staðfestu fulla kerfisvirkn
-- Skráðu ferlið.
+###### - Búðu til kenningu á líklegu ástæðunni.
+###### - Prufaðu kenningu til að finna raunverulegu ástæðu.
+###### - Búðu til aðgerðaáætlun og framkvæmdu hana.
+###### - Staðfestu fulla kerfisvirkn
+###### - Skráðu ferlið.
