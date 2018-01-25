@@ -20,6 +20,6 @@
 ###### - Skráðu ferlið.
 #### 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closedended)spurningu? Nefnið dæmi um báðar gerðir af spurningum
 ###### opinn spurning eru gerðar til að fá fullt og merkilegt svar með því að nota vitunn einstaklings. 
-Dæmi: segðu mér frá samvinnu þinni í hópaverkefninu.
-lokuð spurning eru gerðar til að fá stutt eða 1 orða svar. 
-Dæmi: hverning gékk í hópaverkefninu?
+###### Dæmi: segðu mér frá samvinnu þinni í hópaverkefninu. 
+######lokuð spurning eru gerðar til að fá stutt eða 1 orða svar. 
+######Dæmi: hverning gékk í hópaverkefninu?
