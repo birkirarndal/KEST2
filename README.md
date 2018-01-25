@@ -27,3 +27,14 @@
 ###### Jaðartækin sjá um samskiptin milli þín og tölvunnar. jaðartæki skiptast oftast í þessa flokka: minnis geymslur, inntaksbúnaður, úttaksbúnaður, annar búnaður.
 #### 9. Nefndu þrjú dæmi um inntakstæki
 ###### Lyklaborð, mús og hljóðnemi
+#### 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+| Íhlutir | Verð | búð |
+| ------- |:----:|----:|
+| Thermaltake Versa U21 ATX | 16.990 kr. | Tölvutek |
+| Asus Z170-K 1151 ATX | 20.997 kr. | Tölvulistinn |
+| Intel Core i5 8600K | 36.950 kr. | @tt |
+| Corsair 16GB kit (2x8GB) DDR4 3600MHz, CL18, Vengeance LPX | 33.900 kr. | Tölutækni |
+| Samsung 850 Pro 256GB SSD | 22.750 kr. | @tt |
+| 2TB SATA3 Seagate IronWolf NAS harður diskur (ST2000VN004) 64MB | 12.900 kr. | Ódýrið |
+| MSI GTX1080 Armor | 82.950 kr. | @tt |
+| Cooler Master G750M, 750W modular aflgjafi, 80+ Bronze | 19.900 kr. | Tölvutækni |
