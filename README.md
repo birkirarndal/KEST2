@@ -24,4 +24,4 @@
 ###### lokuð spurning eru gerðar til að fá stutt eða 1 orða svar. 
 ###### Dæmi: hverning gékk í hópaverkefninu?
 #### 8. Hvað eru jaðartæki?
-######Jaðartækin sjá um samskiptin milli þín og tölvunnar. jaðartæki skiptast oftast í þessa flokka: minnis geymslur, inntaksbúnaður, úttaksbúnaður, annar búnaður.
+###### Jaðartækin sjá um samskiptin milli þín og tölvunnar. jaðartæki skiptast oftast í þessa flokka: minnis geymslur, inntaksbúnaður, úttaksbúnaður, annar búnaður.
